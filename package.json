@@ -16,6 +16,7 @@
     "axios": "^0.19.2",
     "expo-constants": "^9.1.1",
     "expo-mail-composer": "^8.2.1",
+    "intl": "^1.2.5",
     "react": "16.13.1",
     "react-native": "0.63.0",
     "react-native-gesture-handler": "^1.6.1",
